@@ -1,0 +1,4 @@
+id,condition,severity,affected_deliverable,owner,target,status
+I-01,Conflict between two source policy pages,High,2.2,Student-services lead,1 working day,Example only
+I-02,API test account not provisioned,Medium,3.2,Integration lead,3 working days,Example only
+I-03,Keyboard focus missing in handoff dialog,Medium,3.3,QA / UX lead,2 working days,Example only

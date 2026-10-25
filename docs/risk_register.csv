@@ -1,0 +1,11 @@
+id,threat,probability,impact_score,impact_aud,initial_emv,residual_probability,owner
+R01,Unverified / misleading policy answer,0.35,4,20000,7000,0.12,Student services
+R02,Unauthorised disclosure of student information,0.15,5,80000,12000,0.05,Privacy officer
+R03,LMS/SMS API credentials or access delayed,0.40,4,25000,10000,0.15,Integration lead
+R04,Accessibility shortfall / low adoption,0.30,3,16000,4800,0.12,UX lead
+R05,Scarce specialist capacity / leave,0.40,3,12000,4800,0.20,Project manager
+R06,Prompt injection into retrieved knowledge,0.20,5,50000,10000,0.06,Security lead
+R07,AI vendor outage or rising unit cost,0.25,3,18000,4500,0.10,Technical lead
+R08,Delayed approvals / scope churn,0.30,3,12000,3600,0.10,Sponsor / PM
+R09,Peak enquiry volumes degrade response,0.25,3,10000,2500,0.10,QA lead
+R10,Outdated or conflicting official content,0.30,4,15000,4500,0.08,Content lead
