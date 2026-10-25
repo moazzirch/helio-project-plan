@@ -27,3 +27,11 @@
 - G4: Independent security and accessibility gate (W15)
 - G5: Business UAT (W16)
 - G6: Sponsor release acceptance after the W18 pilot
+
+
+   ## Objectives
+   1. At least 90% correct, cited answers on 300 scripted enquiries.
+   2. All high-stakes or uncertain queries routed to staff.
+   3. WCAG 2.2 AA, at least 99.5% pilot availability, p95 response of 4 seconds or less.
+   4. Delivered within 18 weeks and AUD 300,000.
+   5. Fewer avoidable repeat enquiries, with no rise in guidance errors.
